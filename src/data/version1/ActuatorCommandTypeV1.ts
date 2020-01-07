@@ -1,0 +1,3 @@
+export class ActuatorCommandTypeV1 {
+    public static SoundSignal: number = 1; // Plays simple signals by code: 1, 2, 3, 4, 5...
+}

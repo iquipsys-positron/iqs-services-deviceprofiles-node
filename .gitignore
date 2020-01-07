@@ -1,0 +1,8 @@
+/dist
+/node_modules
+/npm-debug.log
+/.idea
+/data/profiles.test.json
+/data/device_profiles.json
+/obj/test
+/docker/id_rsa*

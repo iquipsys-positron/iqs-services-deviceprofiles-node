@@ -1,0 +1,1 @@
+export { DeviceProfilesServiceFactory } from './DeviceProfilesServiceFactory';
